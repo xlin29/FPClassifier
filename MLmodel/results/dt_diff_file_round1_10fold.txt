@@ -1,0 +1,14 @@
+http___dotapicker.com_	https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-3801570142696826&output=html&h=280&adk=22683810&adf=271696839&w=1034&fwrn=4&fwrnh=100&lmt=1601674112&rafmt=1&to=qs&pwprc=3094560471&psa=0&guci=2.2.0.0.2.2.0.0&format=1034x280&url=http%3A%2F%2Fdotapicker.com%2F&flash=0&fwr=0&rpe=1&resp_fmts=3&wgl=1&adsid=NT&tt_state=W3siaXNzdWVyT3JpZ2luIjoiaHR0cHM6Ly9hZHNlcnZpY2UuZ29vZ2xlLmNvbSIsInN0YXRlIjowfV0.&dt=1601674112482&bpp=3&bdt=761&idt=-M&shv=r20201001&cbv=r20190131&ptt=9&saldr=aa&abxe=1&prev_fmts=0x0%2C1034x280&nras=1&correlator=1523956745354&frm=20&pv=1&ga_vid=1476471223.1601674112&ga_sid=1601674112&ga_hid=593480018&ga_fc=0&iag=0&icsg=569087&dssz=14&mdo=0&mso=0&u_tz=-300&u_his=2&u_java=0&u_h=900&u_w=1600&u_ah=873&u_aw=1533&u_cd=24&u_nplug=2&u_nmime=2&adx=0&ady=1379&biw=1034&bih=722&scr_x=0&scr_y=0&eid=21066973&oid=3&pvsid=2476009573064227&pem=803&rx=0&eae=0&fc=1920&brdim=77%2C37%2C77%2C37%2C1533%2C27%2C1050%2C853%2C1042%2C722&vis=1&rsz=o%7C%7CeEbr%7C&abl=CS&pfx=0&fu=8320&bc=23&ifi=2&uci=a!2&btvi=2&fsb=1&xpc=tAC0NWoxPg&p=http%3A//dotapicker.com&dtd=78	0.00025806451612903227	1.0
+https___www.decathlon.tw_zh	https://static.criteo.net/js/ld/ld.js	0.00022967386311437759	1.0
+https___www.bleedinggreennation.com_	https://widgets.outbrain.com/nanoWidget/externals/obPixelFrame/obPixelFrame.js	0.0008990784445942908	1.0
+https___www.mountain-forecast.com_	https://pagead2.googlesyndication.com/bg/7s9jpwiuU7qHsmLdS4JQTEZg9pPlRoS5hI2AHG-C1Mk.js	0.6	0.0
+https___www.cheapflights.co.za_	extensions\:\:guestViewDeny	0.0008990784445942908	1.0
+https___up.trkgenius.com_in.php?campaign=58500fec724faa9b59248365d547186e	extensions\:\:guestViewDeny	0.2	1.0
+https___us.amorepacific.com_	extensions\:\:safeMethods	0.6	0.0
+https___boshuots.world.tmall.com_	https://boshuots.world.tmall.com/shop/view_shop.htm	0.0008990784445942908	1.0
+https___www.mybrdnet.ro_brdinternetbank_login.html	https://front.mybrdnet.ro/412336/anchor.html?sui=b2d08f46fd9cda224e7af514713572c99bc9d89a29849c291436041b868f0d21	0.25	1.0
+https___www.steinhafels.com_	https://b25fd9e1-5002-4266-b9c1-27a1b6e6e0db.rlets.com/static/storage.html	0.25	1.0
+https___www.jagran.com_	https://ads.pubmatic.com/AdServer/js/user_sync.html?p=156078&gdpr=0&gdpr_consent=&predirect=https%3A%2F%2Fpixel.advertising.com%2Fups%2F55983%2Fsync%3F_origin%3D0%26gdpr%3D0%26gdpr_consent%3D%26uid%3D	0.0008990784445942908	1.0
+https___www.synonimy.pl_	https://s0.2mdn.net/ads/richmedia/studio/pv2/61303501/20200605035900007/CSSPlugin.min.js	0.02040816326530612	1.0
+https___www.newsweekjapan.jp_		0.2	1.0
+https___www.laboratoriodosnotebooks.com.br_	https://www.laboratoriodosnotebooks.com.br/	0.16666666666666666	1.0
