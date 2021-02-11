@@ -1,7 +1,7 @@
 # A Machine Learning-based Approach to Detect Browser Fingerprinting
 
 ## Description
-We propose a machine learning-based approach utilizing VisibleV8(VV8) to accurately detect browser fingerprinting. 
+We propose a machine learning-based approach utilizing VisibleV8(VV8)[[1]](#1) to accurately detect browser fingerprinting. 
 Our system outperforms the state-of-the-art with an improvement in recall of around 4.8%. 
 We discover JavaScript APIs that particularly appear on fingerprinting scripts from the important features. 
 It shows that our system can be used to perform a large-scale measurement to uncover more previously unreported uses of 
@@ -20,3 +20,7 @@ JavaScript APIs by stateless tracking.
   * run\_logs\_err directory: model execution logs
   * saved\_models directory:  best models
 
+## References
+<a id="1">[1]</a> 
+Jueckstock, Jordan, and Alexandros Kapravelos. 
+"VisibleV8: In-browser monitoring of JavaScript in the wild." Proceedings of the Internet Measurement Conference. 2019.
